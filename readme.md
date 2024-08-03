@@ -9,5 +9,5 @@ Este repositório contém material de apoio para as aulas da trilha de GoLang, i
 
 ## Estrutura do Repositório
 
-- **`/material`**: Material auxiliar para você guardar em sua máquina.
+- **`/uteis`**: Material auxiliar para você guardar em sua máquina.
 - **`/desafios`**: Desafios propostos relacionados ao conteúdo de uma aula.
